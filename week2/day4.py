@@ -25,15 +25,3 @@ def check_salary(salary):
 print(check_salary(30000))
 print(check_salary(60000))
 print(check_salary(200000))
-
-echo "День 2. Git изучен." >> journal.txt
-cat journal.txt
-
-a = 10
-b = 20
-
-if a > b:
-    return "a больше b"
-
-else:
-    return "a меньше или равно b"
