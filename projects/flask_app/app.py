@@ -1,10 +1,13 @@
+import os
 from flask import Flask
 
 app = Flask(__name__)
 
+MY_NAME = os.environ.get("MY_NAME", "Незнакомец")
+
 @app.route("/")
 def home():
-    return "Привет! Мой первый веб-сервер работает!"
+    return f"Привет! Меня зовут {MY_NAME}"
 
 @app.route("/about")
 def about():
