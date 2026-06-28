@@ -9,3 +9,4 @@
 - ✅ Docker - первый контейнер и Dockerfile
 - ✅ GitHub Actions - первый CI/CD pipeline
 - ✅ Flask веб-приложение в Docker контейнере
+- ✅ Flask + Claude API — AI веб-чат
