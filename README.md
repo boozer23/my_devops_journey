@@ -12,3 +12,5 @@
 - ✅ Flask + Claude API — AI веб-чат
 - ✅ DevOps Dashboard — Flask + Claude API + системная статистика
 - ✅ DevOps Dashboard v3 — Flask + Claude API + системные метрики + Telegram алерты + графики истории
+## Практика (самостоятельно)
+- ✅ День 1: функция фильтрации списка
